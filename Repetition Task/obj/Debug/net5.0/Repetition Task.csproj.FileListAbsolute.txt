@@ -1,0 +1,16 @@
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\bin\Debug\net5.0\Repetition Task.exe
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\bin\Debug\net5.0\Repetition Task.deps.json
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\bin\Debug\net5.0\Repetition Task.runtimeconfig.json
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\bin\Debug\net5.0\Repetition Task.runtimeconfig.dev.json
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\bin\Debug\net5.0\Repetition Task.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\bin\Debug\net5.0\ref\Repetition Task.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\bin\Debug\net5.0\Repetition Task.pdb
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\obj\Debug\net5.0\Repetition Task.csprojAssemblyReference.cache
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\obj\Debug\net5.0\Repetition Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\obj\Debug\net5.0\Repetition Task.AssemblyInfoInputs.cache
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\obj\Debug\net5.0\Repetition Task.AssemblyInfo.cs
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\obj\Debug\net5.0\Repetition Task.csproj.CoreCompileInputs.cache
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\obj\Debug\net5.0\Repetition Task.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\obj\Debug\net5.0\ref\Repetition Task.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\obj\Debug\net5.0\Repetition Task.pdb
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Repetition Task\obj\Debug\net5.0\Repetition Task.genruntimeconfig.cache
