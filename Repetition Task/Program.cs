@@ -6,24 +6,22 @@ namespace Repetition_Task
     {
         static void Main(string[] args)
         {
-           
-            Console.WriteLine("Please Enter number of repetitions");
-            string input2 = Console.ReadLine();
-            int number = int.Parse(input2);
+             //where counter begins
+             for (int counter = 1; counter <=100;){
+             //create repetition
+             counter++;
+             //create Fizz Buzz variables
+                 Console.WriteLine(counter);
+                if (counter % 3 == 0){
+                    Console.WriteLine("Fizz");}
+                if (counter % 5 == 0){
+                    Console.WriteLine("Buzz");}
+                if (counter % 3 == 0 && counter % 5 == 0){
+                    Console.WriteLine("FizzBuzz");}
+             }
+                  
             
-            int counter = 0;
-            
 
-
-            while ( counter < number ) {
-                
-                 Console.WriteLine("Please enter a name: ");
-                 string input = Console.ReadLine();
-                
-
-            }
-
-            System.Console.WriteLine("Goodbye");
         }
     }
 }
