@@ -1,0 +1,16 @@
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\obj\Debug\net5.0\Practice Tasks.csprojAssemblyReference.cache
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\obj\Debug\net5.0\Practice Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\obj\Debug\net5.0\Practice Tasks.AssemblyInfoInputs.cache
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\obj\Debug\net5.0\Practice Tasks.AssemblyInfo.cs
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\obj\Debug\net5.0\Practice Tasks.csproj.CoreCompileInputs.cache
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\bin\Debug\net5.0\Practice Tasks.exe
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\bin\Debug\net5.0\Practice Tasks.deps.json
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\bin\Debug\net5.0\Practice Tasks.runtimeconfig.json
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\bin\Debug\net5.0\Practice Tasks.runtimeconfig.dev.json
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\bin\Debug\net5.0\Practice Tasks.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\bin\Debug\net5.0\ref\Practice Tasks.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\bin\Debug\net5.0\Practice Tasks.pdb
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\obj\Debug\net5.0\Practice Tasks.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\obj\Debug\net5.0\ref\Practice Tasks.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\obj\Debug\net5.0\Practice Tasks.pdb
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Practice Tasks\obj\Debug\net5.0\Practice Tasks.genruntimeconfig.cache
