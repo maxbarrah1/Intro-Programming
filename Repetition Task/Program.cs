@@ -12,17 +12,17 @@ namespace Repetition_Task
             {
 
                 //create Fizz Buzz variables
-                Console.WriteLine(counter);
-
+                
+            
                 if (counter % 3 == 0) 
                 {
                     Console.WriteLine("Fizz");
                 }
-                if (counter % 5 == 0)
+                else if (counter % 5 == 0)
                 {
                     Console.WriteLine("Buzz");
                 }
-                if (counter % 3 == 0 && counter % 5 == 0)
+                else if (counter % 3 == 0 && counter % 5 == 0)
                 {
                     Console.WriteLine("FizzBuzz");
                 }
@@ -30,7 +30,7 @@ namespace Repetition_Task
                 {
                     Console.WriteLine(counter);
                 }
-                counter++;
+                counter ++;
             }
 
 
