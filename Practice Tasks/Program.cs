@@ -6,28 +6,31 @@ namespace Practice_Tasks
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please Enter Name:");
-            string name = Console.ReadLine(); 
+           {
             int counter = 0;
-            counter++;
+            Console.Write("enter amount of x's:");
+            int limi = int.Parse(Console.ReadLine());
             
-            while (counter < 10) {
+            
+            while (counter < limi) {
+                
                 int counter2 = 0;
                 
-                while (counter2 < 10) {
-                    Console.WriteLine(name);
-                    counter2 = counter2 + 1; 
-                
-                 
+                while (counter2 <= counter)
+                {
+                    Console.Write("x");
 
-                 Console.WriteLine(counter);
-                    counter = counter + 1;
+                    counter2++;
+
                 }
-
-        
-            
-            Console.WriteLine("Goodbye");
+                counter++;
+                Console.WriteLine();
             }
+                
+            
+
+
+           }
         }
     }
 }
