@@ -1,0 +1,16 @@
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\bin\Debug\net5.0\exercise 6.exe
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\bin\Debug\net5.0\exercise 6.deps.json
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\bin\Debug\net5.0\exercise 6.runtimeconfig.json
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\bin\Debug\net5.0\exercise 6.runtimeconfig.dev.json
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\bin\Debug\net5.0\exercise 6.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\bin\Debug\net5.0\ref\exercise 6.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\bin\Debug\net5.0\exercise 6.pdb
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\obj\Debug\net5.0\exercise 6.csprojAssemblyReference.cache
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\obj\Debug\net5.0\exercise 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\obj\Debug\net5.0\exercise 6.AssemblyInfoInputs.cache
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\obj\Debug\net5.0\exercise 6.AssemblyInfo.cs
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\obj\Debug\net5.0\exercise 6.csproj.CoreCompileInputs.cache
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\obj\Debug\net5.0\exercise 6.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\obj\Debug\net5.0\ref\exercise 6.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\obj\Debug\net5.0\exercise 6.pdb
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\FunctionsMethods\exercise 6\obj\Debug\net5.0\exercise 6.genruntimeconfig.cache
