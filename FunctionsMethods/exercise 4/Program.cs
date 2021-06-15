@@ -13,10 +13,10 @@ namespace exercise_4
             string sentence = Console.ReadLine();
 
             for (int i = 0;i < sentence.Length;i++){
-                sentence = sentence.Substring(i,1);
-			  if (sentence == " "){
-					counter++;
-              }
+                if (sentence.Contains(" "));
+                counter++;
+			 
+              
             }
         
             

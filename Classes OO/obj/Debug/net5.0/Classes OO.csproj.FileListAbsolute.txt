@@ -1,0 +1,16 @@
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\bin\Debug\net5.0\Classes OO.exe
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\bin\Debug\net5.0\Classes OO.deps.json
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\bin\Debug\net5.0\Classes OO.runtimeconfig.json
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\bin\Debug\net5.0\Classes OO.runtimeconfig.dev.json
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\bin\Debug\net5.0\Classes OO.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\bin\Debug\net5.0\ref\Classes OO.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\bin\Debug\net5.0\Classes OO.pdb
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\obj\Debug\net5.0\Classes OO.csprojAssemblyReference.cache
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\obj\Debug\net5.0\Classes OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\obj\Debug\net5.0\Classes OO.AssemblyInfoInputs.cache
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\obj\Debug\net5.0\Classes OO.AssemblyInfo.cs
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\obj\Debug\net5.0\Classes OO.csproj.CoreCompileInputs.cache
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\obj\Debug\net5.0\Classes OO.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\obj\Debug\net5.0\ref\Classes OO.dll
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\obj\Debug\net5.0\Classes OO.pdb
+C:\Users\maxba\OneDrive\Documents\Github\Intro-Programming\Classes OO\obj\Debug\net5.0\Classes OO.genruntimeconfig.cache
