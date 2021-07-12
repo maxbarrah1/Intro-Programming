@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L3Rn1mk89ByFjn7fKaiVB7e8ECPlj9V7wyP3aomtjSGnB8kgAtPJTJcFROJlWNI+x0qNE9GhxQvdTvyv+mZvyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxba\\OneDrive\\Documents\\Github\\Intro-Programming\\Assessment Task 2\\CivSem1Challenge2-RegistrationSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxba\\.nuget\\packages\\csvhelper\\27.1.0\\csvhelper.27.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
