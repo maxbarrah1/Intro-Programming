@@ -1,0 +1,5 @@
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week 2 exception handling\obj\Debug\net5.0\week 2 exception handling.csprojAssemblyReference.cache
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week 2 exception handling\obj\Debug\net5.0\week 2 exception handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week 2 exception handling\obj\Debug\net5.0\week 2 exception handling.AssemblyInfoInputs.cache
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week 2 exception handling\obj\Debug\net5.0\week 2 exception handling.AssemblyInfo.cs
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week 2 exception handling\obj\Debug\net5.0\week 2 exception handling.csproj.CoreCompileInputs.cache

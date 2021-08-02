@@ -1,0 +1,16 @@
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\obj\Debug\net5.0\week1.csprojAssemblyReference.cache
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\obj\Debug\net5.0\week1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\obj\Debug\net5.0\week1.AssemblyInfoInputs.cache
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\obj\Debug\net5.0\week1.AssemblyInfo.cs
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\obj\Debug\net5.0\week1.csproj.CoreCompileInputs.cache
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\bin\Debug\net5.0\week1.exe
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\bin\Debug\net5.0\week1.deps.json
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\bin\Debug\net5.0\week1.runtimeconfig.json
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\bin\Debug\net5.0\week1.runtimeconfig.dev.json
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\bin\Debug\net5.0\week1.dll
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\bin\Debug\net5.0\ref\week1.dll
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\bin\Debug\net5.0\week1.pdb
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\obj\Debug\net5.0\week1.dll
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\obj\Debug\net5.0\ref\week1.dll
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\obj\Debug\net5.0\week1.pdb
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\Weekly tasks sem2\week1\obj\Debug\net5.0\week1.genruntimeconfig.cache
