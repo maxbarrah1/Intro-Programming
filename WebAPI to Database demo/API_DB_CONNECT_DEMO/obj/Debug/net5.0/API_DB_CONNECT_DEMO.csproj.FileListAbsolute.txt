@@ -1,0 +1,7 @@
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI to Database demo\API_DB_CONNECT_DEMO\obj\Debug\net5.0\API_DB_CONNECT_DEMO.csprojAssemblyReference.cache
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI to Database demo\API_DB_CONNECT_DEMO\obj\Debug\net5.0\API_DB_CONNECT_DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI to Database demo\API_DB_CONNECT_DEMO\obj\Debug\net5.0\API_DB_CONNECT_DEMO.AssemblyInfoInputs.cache
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI to Database demo\API_DB_CONNECT_DEMO\obj\Debug\net5.0\API_DB_CONNECT_DEMO.AssemblyInfo.cs
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI to Database demo\API_DB_CONNECT_DEMO\obj\Debug\net5.0\API_DB_CONNECT_DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI to Database demo\API_DB_CONNECT_DEMO\obj\Debug\net5.0\API_DB_CONNECT_DEMO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Max\OneDrive\Documents\Github\Intro-Programming\WebAPI to Database demo\API_DB_CONNECT_DEMO\obj\Debug\net5.0\API_DB_CONNECT_DEMO.MvcApplicationPartsAssemblyInfo.cache

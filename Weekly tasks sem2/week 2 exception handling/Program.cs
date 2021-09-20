@@ -9,8 +9,8 @@ namespace week_2_exception_handling
         {
             string roomno;
             string name;
-            dateTime date;
-            dateTime time;
+            DateTime date;
+            DateTime time;
             int minutes;
             
 
@@ -21,10 +21,20 @@ namespace week_2_exception_handling
             roomno = Console.ReadLine();
             System.Console.Write("Please enter your Name: ");
             name = Console.ReadLine();
+            
             System.Console.Write("Please enter Date of entry: ");
-            date = Console.ReadLine();
+        
+            try {
+               var tempdate = Console.ReadLine(); 
+               date = DateTime.Parse(tempdate);
+            }
+            catch (exception e) {
+                System.Writeline(e);
+            }
             System.Console.Write("Please enter Time of Entry: ");
-            time = Console.ReadLine();
+            var tempTime = Console.ReadLine(); 
+            time = DateTime.Parse(tempTime);
+
             System.Console.Write("Please enter Duration of visit: ");
             minutes = Console.ReadLine();
 
